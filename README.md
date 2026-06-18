@@ -2,6 +2,9 @@ Retail Sales Performance Analysis Dashboard
 📌 Project Overview
 This project provides a comprehensive analysis of retail sales performance using the Sample-Superstore dataset. The goal was to transform raw data into actionable business insights by leveraging SQL for data cleaning and Power BI for advanced visualization.
 
+![Dashboard](images/dashboard.png)
+
+
 🛠️ Tech Stack
 Data Cleaning & Transformation: SQL (VS Code)
 
